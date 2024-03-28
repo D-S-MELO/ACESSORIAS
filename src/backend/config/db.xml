@@ -1,0 +1,6 @@
+<database>
+    <servername>localhost</servername>
+    <username>root</username>
+    <password></password>
+    <dbname>acessorias</dbname>
+</database>

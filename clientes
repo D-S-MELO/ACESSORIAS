@@ -1,0 +1,413 @@
+INSERT INTO clients (name, phone, email) 
+VALUES 
+  (
+    'João da Silva', '3191234567', 'joao@gmail.com'
+  ), 
+  (
+    'Maria Santos', '3192345678', 'maria@gmail.com'
+  ), 
+  (
+    'Pedro Oliveira', '3193456789', 'pedro@gmail.com'
+  ), 
+  (
+    'Ana Pereira', '3194567890', 'ana@gmail.com'
+  ), 
+  (
+    'José Almeida', '3195678901', 'jose@gmail.com'
+  ), 
+  (
+    'Luiza Fernandes', '3196789012', 
+    'luiza@gmail.com'
+  ), 
+  (
+    'Carlos Souza', '3197890123', 'carlos@gmail.com'
+  ), 
+  (
+    'Fernanda Costa', '3198901234', 'fernanda@gmail.com'
+  ), 
+  (
+    'Antônio Martins', '3199012345', 
+    'antonio@gmail.com'
+  ), 
+  (
+    'Mariana Rodrigues', '3190123456', 
+    'mariana@gmail.com'
+  ), 
+  (
+    'Paulo Lima', '3191234509', 'paulo@gmail.com'
+  ), 
+  (
+    'Amanda Gomes', '3192345091', 'amanda@gmail.com'
+  ), 
+  (
+    'Rafaela Vieira', '3193450912', 'rafaela@gmail.com'
+  ), 
+  (
+    'Roberto Rocha', '3194509123', 'roberto@gmail.com'
+  ), 
+  (
+    'Laura Castro', '3195091234', 'laura@gmail.com'
+  ), 
+  (
+    'Gabriel Cardoso', '3190912345', 
+    'gabriel@gmail.com'
+  ), 
+  (
+    'Isabela Oliveira', '3199123456', 
+    'isabela@gmail.com'
+  ), 
+  (
+    'Lucas Santos', '3191234567', 'lucas@gmail.com'
+  ), 
+  (
+    'Juliana Pereira', '3192345678', 
+    'juliana@gmail.com'
+  ), 
+  (
+    'Anderson Silva', '3193456789', 'anderson@gmail.com'
+  ), 
+  (
+    'Natália Almeida', '3194567890', 
+    'natalia@gmail.com'
+  ), 
+  (
+    'Leandro Fernandes', '3195678901', 
+    'leandro@gmail.com'
+  ), 
+  (
+    'Bruna Souza', '3196789012', 'bruna@gmail.com'
+  ), 
+  (
+    'Diego Costa', '3197890123', 'diego@gmail.com'
+  ), 
+  (
+    'Patrícia Martins', '3198901234', 
+    'patricia@gmail.com'
+  ), 
+  (
+    'Marcelo Rodrigues', '3199012345', 
+    'marcelo@gmail.com'
+  ), 
+  (
+    'Vanessa Lima', '3190123456', 'vanessa@gmail.com'
+  ), 
+  (
+    'Ricardo Gomes', '3191234509', 'ricardo@gmail.com'
+  ), 
+  (
+    'Tatiane Vieira', '3192345091', 'tatiane@gmail.com'
+  ), 
+  (
+    'Robson Rocha', '3193450912', 'robson@gmail.com'
+  ), 
+  (
+    'Carla Castro', '3194509123', 'carla@gmail.com'
+  ), 
+  (
+    'Renan Cardoso', '3195091234', 'renan@gmail.com'
+  ), 
+  (
+    'Cristina Oliveira', '3190912345', 
+    'cristina@gmail.com'
+  ), 
+  (
+    'Alexandre Santos', '3199123456', 
+    'alexandre@gmail.com'
+  ), 
+  (
+    'Eduarda Pereira', '3191234567', 
+    'eduarda@gmail.com'
+  ), 
+  (
+    'Vinícius Silva', '3192345678', 
+    'vinicius@gmail.com'
+  ), 
+  (
+    'Larissa Almeida', '3193456789', 
+    'larissa@gmail.com'
+  ), 
+  (
+    'Rodrigo Fernandes', '3194567890', 
+    'rodrigo@gmail.com'
+  ), 
+  (
+    'Daniela Souza', '3195678901', 'daniela@gmail.com'
+  ), 
+  (
+    'Felipe Costa', '3196789012', 'felipe@gmail.com'
+  ), 
+  (
+    'Mariana Martins', '3197890123', 
+    'mariana@gmail.com'
+  ), 
+  (
+    'Thiago Rodrigues', '3198901234', 
+    'thiago@gmail.com'
+  ), 
+  (
+    'Aline Lima', '3199012345', 'aline@gmail.com'
+  ), 
+  (
+    'Gustavo Gomes', '3190123456', 'gustavo@gmail.com'
+  ), 
+  (
+    'Camila Vieira', '3191234509', 'camila@gmail.com'
+  ), 
+  (
+    'Hugo Rocha', '3192345091', 'hugo@gmail.com'
+  ), 
+  (
+    'Bianca Castro', '3193450912', 'bianca@gmail.com'
+  ), 
+  (
+    'Lucas Cardoso', '3194509123', 'lucas2@gmail.com'
+  ), 
+  (
+    'Beatriz Oliveira', '3195091234', 
+    'beatriz@gmail.com'
+  ), 
+  (
+    'Márcio Santos', '3190912345', 'marcio@gmail.com'
+  ), 
+  (
+    'Letícia Pereira', '3199123456', 
+    'leticia@gmail.com'
+  ), 
+  (
+    'Rafaela Fernandes', '3191234567', 
+    'rafaela2@gmail.com'
+  ), 
+  (
+    'Daniel Souza', '3192345678', 'daniel@gmail.com'
+  ), 
+  (
+    'Carolina Costa', '3193456789', 'carolina@gmail.com'
+  ), 
+  (
+    'Vitor Martins', '3194567890', 'vitor@gmail.com'
+  ), 
+  (
+    'Fernanda Lima', '3195678901', 'fernanda2@gmail.com'
+  ), 
+  (
+    'Bruno Rodrigues', '3196789012', 
+    'bruno@gmail.com'
+  ), 
+  (
+    'Lívia Lima', '3197890123', 'livia@gmail.com'
+  ), 
+  (
+    'Marcos Gomes', '3198901234', 'marcos@gmail.com'
+  ), 
+  (
+    'Juliana Vieira', '3199012345', 'juliana2@gmail.com'
+  ), 
+  (
+    'Fábio Rocha', '3190123456', 'fabio@gmail.com'
+  ), 
+  (
+    'Caroline Castro', '3191234509', 
+    'caroline@gmail.com'
+  ), 
+  (
+    'Rogério Oliveira', '3192345091', 
+    'rogerio@gmail.com'
+  ), 
+  (
+    'Natasha Santos', '3193450912', 'natasha@gmail.com'
+  ), 
+  (
+    'Anderson Cardoso', '3194509123', 
+    'anderson2@gmail.com'
+  ), 
+  (
+    'Camila Oliveira', '3195091234', 
+    'camila2@gmail.com'
+  ), 
+  (
+    'Hélio Lima', '3190912345', 'helio@gmail.com'
+  ), 
+  (
+    'Natalia Gomes', '3199123456', 'natalia2@gmail.com'
+  ), 
+  (
+    'Guilherme Pereira', '3191234567', 
+    'guilherme@gmail.com'
+  ), 
+  (
+    'Amanda Fernandes', '3192345678', 
+    'amanda2@gmail.com'
+  ), 
+  (
+    'Rafaela Costa', '3193456789', 'rafaela3@gmail.com'
+  ), 
+  (
+    'Roberto Martins', '3194567890', 
+    'roberto2@gmail.com'
+  ), 
+  (
+    'Mariana Rodrigues', '3195678901', 
+    'mariana2@gmail.com'
+  ), 
+  (
+    'Ricardo Lima', '3196789012', 'ricardo2@gmail.com'
+  ), 
+  (
+    'Tatiane Gomes', '3197890123', 'tatiane2@gmail.com'
+  ), 
+  (
+    'Robson Oliveira', '3198901234', 
+    'robson2@gmail.com'
+  ), 
+  (
+    'Carolina Santos', '3199012345', 
+    'carolina2@gmail.com'
+  ), 
+  (
+    'Fábio Cardoso', '3190123456', 'fabio2@gmail.com'
+  ), 
+  (
+    'Bianca Lima', '3191234509', 'bianca2@gmail.com'
+  ), 
+  (
+    'Hugo Martins', '3192345091', 'hugo2@gmail.com'
+  ), 
+  (
+    'Camila Rodrigues', '3193450912', 
+    'camila3@gmail.com'
+  ), 
+  (
+    'Marcos Costa', '3194509123', 'marcos2@gmail.com'
+  ), 
+  (
+    'Lívia Gomes', '3195091234', 'livia2@gmail.com'
+  ), 
+  (
+    'Bruno Oliveira', '3190912345', 'bruno2@gmail.com'
+  ), 
+  (
+    'Fernanda Santos', '3199123456', 
+    'fernanda3@gmail.com'
+  ), 
+  (
+    'Vitor Cardoso', '3191234567', 'vitor2@gmail.com'
+  ), 
+  (
+    'Caroline Lima', '3192345678', 'caroline2@gmail.com'
+  ), 
+  (
+    'Rogério Pereira', '3193456789', 
+    'rogerio2@gmail.com'
+  ), 
+  (
+    'Natasha Fernandes', '3194567890', 
+    'natasha2@gmail.com'
+  ), 
+  (
+    'Anderson Costa', '3195678901', 'anderson3@gmail.com'
+  ), 
+  (
+    'Camila Martins', '3196789012', 'camila4@gmail.com'
+  ), 
+  (
+    'Hélio Lima', '3197890123', 'helio2@gmail.com'
+  ), 
+  (
+    'Natalia Gomes', '3198901234', 'natalia3@gmail.com'
+  ), 
+  (
+    'Guilherme Oliveira', '3199012345', 
+    'guilherme2@gmail.com'
+  ), 
+  (
+    'Amanda Pereira', '3190123456', 'amanda3@gmail.com'
+  ), 
+  (
+    'Rafaela Almeida', '3191234509', 
+    'rafaela4@gmail.com'
+  ), 
+  (
+    'Roberto Fernandes', '3192345091', 
+    'roberto3@gmail.com'
+  ), 
+  (
+    'Mariana Santos', '3193450912', 'mariana3@gmail.com'
+  ), 
+  (
+    'Ricardo Rodrigues', '3194509123', 
+    'ricardo3@gmail.com'
+  ), 
+  (
+    'Tatiane Lima', '3195091234', 'tatiane3@gmail.com'
+  ), 
+  (
+    'Robson Pereira', '3190912345', 'robson3@gmail.com'
+  ), 
+  (
+    'Carolina Almeida', '3199123456', 
+    'carolina3@gmail.com'
+  ), 
+  (
+    'Fábio Rodrigues', '3191234567', 
+    'fabio3@gmail.com'
+  ), 
+  (
+    'Bianca Santos', '3192345678', 'bianca3@gmail.com'
+  ), 
+  (
+    'Hugo Oliveira', '3193456789', 'hugo3@gmail.com'
+  ), 
+  (
+    'Camila Fernandes', '3194567890', 
+    'camila5@gmail.com'
+  ), 
+  (
+    'Marcos Lima', '3195678901', 'marcos3@gmail.com'
+  ), 
+  (
+    'Lívia Pereira', '3196789012', 'livia3@gmail.com'
+  ), 
+  (
+    'Bruno Fernandes', '3197890123', 
+    'bruno3@gmail.com'
+  ), 
+  (
+    'Fernanda Pereira', '3198901234', 
+    'fernanda4@gmail.com'
+  ), 
+  (
+    'Vitor Fernandes', '3199012345', 
+    'vitor3@gmail.com'
+  ), 
+  (
+    'Caroline Santos', '3190123456', 
+    'caroline3@gmail.com'
+  ), 
+  (
+    'Rogério Fernandes', '3191234509', 
+    'rogerio3@gmail.com'
+  ), 
+  (
+    'Natasha Lima', '3192345091', 'natasha3@gmail.com'
+  ), 
+  (
+    'Anderson Rodrigues', '3193450912', 
+    'anderson4@gmail.com'
+  ), 
+  (
+    'Camila Almeida', '3194509123', 'camila6@gmail.com'
+  ), 
+  (
+    'Hélio Rodrigues', '3195091234', 
+    'helio3@gmail.com'
+  ), 
+  (
+    'Natalia Lima', '3190912345', 'natalia4@gmail.com'
+  ), 
+  (
+    'Guilherme Fernandes', '3199123456', 
+    'guilherme3@gmail.com'
+  ), 
+  (
+    'Amanda Santos', '3191234567', 'amanda4@gmail.com'
+  )
